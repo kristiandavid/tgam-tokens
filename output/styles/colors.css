@@ -1,5 +1,16 @@
 :root {
   /* COLOR */
+  --alias-bg-color-dark-grey: rgb(51, 51, 51);
+  --alias-bg-color-light-grey: rgb(242, 242, 242);
+  --alias-bg-color-medium-grey: rgb(76, 76, 76);
+  --alias-bg-color-red: rgb(218, 22, 31);
+  --alias-focus-ring-default: rgb(46, 120, 147);
+  --alias-icon-color-default: rgb(89, 89, 89);
+  --alias-line-color-default: rgb(229, 229, 229);
+  --alias-outline-color-dark: rgb(25, 25, 25);
+  --alias-outline-color-light: rgb(204, 204, 204);
+  --alias-text-color-default: rgb(25, 25, 25);
+  --alias-text-color-grey: rgb(89, 89, 89);
   --black-100: rgb(0, 0, 0);
   --burgundy-100: rgb(244, 233, 239);
   --burgundy-200: rgb(225, 210, 218);
