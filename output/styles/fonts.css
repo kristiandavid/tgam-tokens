@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Helvetica";
+  src: url("../fonts/Helvetica.woff") format("woff"),
+    url("../fonts/Helvetica.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica-Bold";
+  src: url("../fonts/Helvetica-Bold.woff") format("woff"),
+    url("../fonts/Helvetica-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Pratt-Bold";
+  src: url("../fonts/Pratt-Bold.woff") format("woff"),
+    url("../fonts/Pratt-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Pratt";
+  src: url("../fonts/Pratt.woff") format("woff"),
+    url("../fonts/Pratt.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GMsansWeb-Bold";
+  src: url("../fonts/GMsansWeb-Bold.woff") format("woff"),
+    url("../fonts/GMsansWeb-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GMsansWebLabel";
+  src: url("../fonts/GMsansWebLabel.woff") format("woff"),
+    url("../fonts/GMsansWebLabel.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GMsansWeb";
+  src: url("../fonts/GMsansWeb.woff") format("woff"),
+    url("../fonts/GMsansWeb.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
